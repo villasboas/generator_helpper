@@ -1,0 +1,7 @@
+{
+    "extends": "tslint-ionic-rules",
+    "rules" : {
+        "only-arrow-functions": true,
+        "no-any": false
+    }
+}
