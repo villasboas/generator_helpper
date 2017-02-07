@@ -15,4 +15,4 @@ export default class <%= name %> {
      * @return void
      */
     constructor() { }
-};
+}

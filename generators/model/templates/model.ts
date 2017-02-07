@@ -48,5 +48,5 @@ export class <%= model %> extends BaseModel {
         },
         <% } %>
     };
-};
+}
 
