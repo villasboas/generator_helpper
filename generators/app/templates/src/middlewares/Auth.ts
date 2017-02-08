@@ -1,8 +1,8 @@
-import { CustomJWT } from '../libraries/CustomJWT';
-import { User }      from '../models/User';
-import { Logs }      from '../models/Logs';
+import { CustomJWT }      from '../libraries/CustomJWT';
+import { User }           from '../models/User';
+import { Logs }           from '../models/Logs';
 import { BaseController } from '../core/BaseController';
-import * as express from 'express';
+import * as express       from 'express';
 export abstract class Auth {
 
     /**

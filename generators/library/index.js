@@ -1,5 +1,13 @@
 const Generator  = require('yeoman-generator');
 
+/**
+ * Library generator
+ * 
+ * generates a new library
+ * 
+ * @author Gustavo Vilas Boas
+ * @since 02-2017
+ */
 module.exports = class extends Generator {
 
     /**

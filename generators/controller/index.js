@@ -1,5 +1,13 @@
 const Generator  = require('yeoman-generator');
 
+/**
+ * Controller generator
+ * 
+ * generates a new controller
+ * 
+ * @author Gustavo Vilas Boas
+ * @since 02-2017
+ */
 module.exports = class extends Generator {
 
     /**
