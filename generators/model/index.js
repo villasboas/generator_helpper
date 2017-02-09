@@ -1,6 +1,6 @@
 const Generator     = require( 'yeoman-generator' );
-const SequelizeAuto = require( 'sequelize-auto' )
-const beautify      = require('gulp-beautify');
+const SequelizeAuto = require( 'sequelize-auto' );
+const beautify      = require( 'gulp-beautify' );
 
 /**
  * Model generator
